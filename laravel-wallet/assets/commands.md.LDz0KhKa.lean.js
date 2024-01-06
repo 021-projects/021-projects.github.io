@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,U as i}from"./chunks/framework.CYGC3Emh.js";const m=JSON.parse('{"title":"Commands","description":"","frontmatter":{},"headers":[],"relativePath":"commands.md","filePath":"commands.md"}'),t={name:"commands.md"},n=i("",8),l=[n];function h(r,o,c,d,p,k){return e(),s("div",null,l)}const u=a(t,[["render",h]]);export{m as __pageData,u as default};

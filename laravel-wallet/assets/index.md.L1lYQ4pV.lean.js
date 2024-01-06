@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,U as r}from"./chunks/framework.CYGC3Emh.js";const b=JSON.parse('{"title":"Introduction","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"},n=r("",9),s=[n];function o(l,h,c,d,u,m){return t(),a("div",null,s)}const f=e(i,[["render",o]]);export{b as __pageData,f as default};
