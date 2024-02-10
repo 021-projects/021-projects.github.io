@@ -46,6 +46,7 @@ import{_ as s,c as i,o as a,U as n}from"./chunks/framework.CYGC3Emh.js";const c=
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">/**</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * Get the minimum value of the given values</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * Requires 021/laravel-wallet &gt;= 8.2.0</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * </span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">@param</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">  string</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">|</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">float</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">|</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">int</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">|</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">Numeric</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">[]  ...$values</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">@return</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> \\O21\\LaravelWallet\\Numeric</span></span>
@@ -54,6 +55,7 @@ import{_ as s,c as i,o as a,U as n}from"./chunks/framework.CYGC3Emh.js";const c=
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">/**</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * Get the maximum value of the given values</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * Requires 021/laravel-wallet &gt;= 8.2.0</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * </span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">@param</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">  string</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">|</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">float</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">|</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">int</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">|</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;">Numeric</span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">[]  ...$values</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"> * </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">@return</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> \\O21\\LaravelWallet\\Numeric</span></span>
