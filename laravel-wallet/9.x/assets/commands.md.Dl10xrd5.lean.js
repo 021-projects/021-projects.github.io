@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,V as t}from"./chunks/framework.Cami899w.js";const m=JSON.parse('{"title":"Commands","description":"","frontmatter":{},"headers":[],"relativePath":"commands.md","filePath":"commands.md"}'),i={name:"commands.md"},n=t("",8),l=[n];function o(r,h,c,d,p,k){return e(),s("div",null,l)}const u=a(i,[["render",o]]);export{m as __pageData,u as default};

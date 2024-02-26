@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,V as h}from"./chunks/framework.DkltRVlg.js";const o=JSON.parse('{"title":"Helpers","description":"","frontmatter":{},"headers":[],"relativePath":"helpers.md","filePath":"helpers.md"}'),n={name:"helpers.md"},t=h("",16),l=[t];function k(p,e,r,d,E,g){return a(),i("div",null,l)}const y=s(n,[["render",k]]);export{o as __pageData,y as default};

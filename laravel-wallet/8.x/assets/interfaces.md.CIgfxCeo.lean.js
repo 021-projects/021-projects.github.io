@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,V as n}from"./chunks/framework.DkltRVlg.js";const c=JSON.parse('{"title":"Interfaces","description":"","frontmatter":{},"headers":[],"relativePath":"interfaces.md","filePath":"interfaces.md"}'),h={name:"interfaces.md"},l=n("",39),k=[l];function t(p,e,r,d,g,E){return a(),i("div",null,k)}const o=s(h,[["render",t]]);export{c as __pageData,o as default};
